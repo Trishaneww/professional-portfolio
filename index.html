@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!--Name of the website tab in the browser-->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,7 +13,9 @@
 
 <body>
     <main>
+        <!--top header of webpage-->
         <h1>Trishane <span>Wijeyawickrema</span></h1>
+        <!--navigation bar with the according nav links nested in an unordered list-->
         <nav class="navbar">
             <ul>
                 <li><a href="#aboutme" class="nav-button">About</a></li>
@@ -21,6 +24,9 @@
             </ul>
         </nav>
         
+        <!--this creates the 'about me' section of the webpage-->
+        <!--a header, profile image, paagraph and group of icons are contained within this section-->
+        <!--the article nested within this section contains the group of icons under the paragraph-->
         <section id="aboutme" class="aboutme">
             <h2>About Me</h2>
             <img src="assets/images/icon4.png" alt="Profile Photo of Trishane Wijeyawickrema" class="profile-img">
@@ -36,6 +42,9 @@
             </article>
         </section>
 
+        <!--this creates the first project section that contains the horiseon project-->
+        <!--the link to the live horiseon application is displayed through the code below-->
+        <!--this section is given a specefic id, this enables the navigation bar to redirect the user to this section if they click 'projects'-->
         <section id="projects" class="horiseon">
             <article class="project-layout">
                 <img src="assets/images/seo-icon.webp" alt="search engine optimzation magnifying glass logo" class="project-img">
@@ -46,9 +55,10 @@
                 <a href="#/" class="view-button">View</a>
             </article>
         </section>
-
-    
-
+        
+        <!--this creates the next 3 project sections-->
+        <!--each individual project is contained within an article-->
+        <!--the group of projects/articles is all nested into a section-->
         <section id="projects" class="panel">
             <article class="project-layout">
                 <img src="assets/images/icon1.png" alt="a lady walking through a room of laptop and monitor screens" class="project-img">
@@ -78,6 +88,9 @@
             </article>
         </section>
 
+        <!--this section is given a specefic id, this enables the navigation bar to redirect the user to this section if they click 'contact'-->
+        <!--a group of links are nested within an unordered list, which is all contained within the section-->
+        <!--this code enables the user to interact with the images below, if clicked, willl redirect them to the corrosponding link-->
         <section id="contactme" class="contact">
             <ul>
                 <li>
@@ -92,7 +105,8 @@
             </ul>
         </section>
     </main>
-
+    
+    <!--this creates the footer of the webpage-->
     <footer>
         <h3>@2022 Trishane Wijeyawickrema</h3>
     </footer>
