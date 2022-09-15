@@ -4,7 +4,6 @@ html {
   font-family: 'Open Sans', sans-serif;
 }
 
-
 /*gives the code/content within the body the below background color*/
 body {
   background:#9dd1ff;
@@ -54,7 +53,6 @@ footer {
 }
 
 .profile-img {
-  margin-top: 20px;
   border-radius: 50%;
   height: 100%;
   width: 110%;
