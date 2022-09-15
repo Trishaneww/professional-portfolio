@@ -11,13 +11,13 @@ The codebase has an abundance of features as stated below:
 - Clicking any of the three options in the navigation bar will direct the user to the corrosponding section of the webpage
 - Contains "alt" phrases with descriptive titles of each image displayed, for screen readers 
 
-## Usage
-
 ![screenshot](assets/images/portfolio.png)
 
 Link to working website: [Github Pages](https://trishaneww.github.io/professional-portfolio/)
 
 ## WireFrame
+
+Below is the template that was used to design the webpage
 
 ![screenshot](assets/images/wireframe.png)
 
