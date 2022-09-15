@@ -14,6 +14,7 @@ The codebase has an abundance of features as stated below:
 ## Usage
 
 ![screenshot](assets/images/portfolio.png)
+
 Link to working website: [Github Pages](https://trishaneww.github.io/professional-portfolio/)
 
 ## WireFrame
