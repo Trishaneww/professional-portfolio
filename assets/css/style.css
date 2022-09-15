@@ -8,11 +8,15 @@ html {
 body {
   background:#9dd1ff;
 }
+
+h1 span {
+  color: white;
+}
 /*formats all code within <main></main>*/
 main {
   background: rgba(255, 255, 255, 0.5);
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
@@ -36,7 +40,7 @@ footer {
 
 .aboutme-img {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-items: center;
   align-items: center;
 }
@@ -96,14 +100,25 @@ footer {
   margin-bottom: 200px;
 }
 
+.horiseon {
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px 25px;
+  max-width: 960px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 .project-layout {
   border-bottom: 1px solid #e1f1ff;
   justify-content: space-evenly;
 }
 
 .project-img {
-  width: 100%;
-  height: 7em;
+  width: 14rem;
+  height: 9rem;
   margin-bottom: 25px;
   max-width: 100%;
 }
@@ -168,5 +183,11 @@ footer {
     border: 1px solid #e1f1ff;
     padding: 25px 50px;
     text-align: center;
+  }
+  main {
+    flex-direction: column;
+  }
+  .aboutme-img {
+    flex-direction: row;
   }
 }
