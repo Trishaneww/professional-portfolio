@@ -17,6 +17,8 @@ Link to working website: [Github Pages](https://trishaneww.github.io/professiona
 
 ## WireFrame
 
+![screenshot](assets/images/Untitled presentation.png)
+
 ## Credits
 
 Trishane Wijeyawickrema
