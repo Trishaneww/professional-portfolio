@@ -5,7 +5,15 @@ html {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 26;
+}
+
+h3 {
+  font-size: 16;
 }
 
 /*gives the code/content within the body the below background color*/
@@ -57,6 +65,7 @@ footer {
 }
 
 .profile-img {
+  margin-top: 20px;
   border-radius: 50%;
   height: 100%;
   width: 110%;
