@@ -27,3 +27,4 @@ Link to [Github Repository](https://github.com/Trishaneww/professional-portfolio
 
 ## Liscence
 
+N/A
