@@ -12,8 +12,10 @@ The codebase has an abundance of features as stated below:
 - Contains "alt" phrases with descriptive titles of each image displayed, for screen readers 
 
 ![screenshot](assets/images/portfolio.png)
+![snippet](assets/images/portfolio.webm)
 
 Link to working website: [Github Pages](https://trishaneww.github.io/professional-portfolio/)
+
 
 ## WireFrame
 
