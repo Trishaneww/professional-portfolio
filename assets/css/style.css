@@ -90,6 +90,7 @@ footer {
   justify-content: space-evenly;
 }
 
+/*gives all the links nested within the unordered list a flexbox format*/
 .contact ul {
   display:flex;
   flex-wrap: wrap;
@@ -141,6 +142,8 @@ footer {
   list-style: none;
 }
 
+/*completelty changes the formatting of the letters/words using this class 
+(changes font-size, line-height, border, font styling and spacing)*/
 .project-features-item {
   font-weight: 600;
   letter-spacing: 1px;
@@ -190,6 +193,7 @@ footer {
 /*--------------------media query-------------------*/
 /*Once the users screen is 900px or greater, this code will run*/
 /*Changes the flex-direction of the panel class to rows from columns*/
+/*adjusts the margins to format cleaner for larger screen dimensions/
 /*Once the users screen is 900px or greater, this code will run*/
 @media (min-width: 900px){
   .panel {
