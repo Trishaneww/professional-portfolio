@@ -26,8 +26,7 @@ Below is the template that was used to design the webpage
 ## Credits
 
 Trishane Wijeyawickrema
-
-Link to [Github Repository](https://github.com/Trishaneww/professional-portfolio)
+- Link to [Github Repository](https://github.com/Trishaneww/professional-portfolio)
 
 ## Liscence
 
