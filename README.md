@@ -15,7 +15,7 @@ The codebase has an abundance of features as stated below:
 ![snippet](assets/images/portfolio.webm)
 
 Link to working website: [Github Pages](https://trishaneww.github.io/professional-portfolio/)
-[demo](file:///Users/trishaneupnexx/Downloads/Camp%20JRNL%20(2).webm)
+[demo]((file:///Users/trishaneupnexx/Downloads/Camp%20JRNL%20(2).webm)
 
 ## WireFrame
 
