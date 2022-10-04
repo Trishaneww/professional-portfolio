@@ -15,7 +15,11 @@ The codebase has an abundance of features as stated below:
 ![snippet](assets/images/portfolio.webm)
 
 Link to working website: [Github Pages](https://trishaneww.github.io/professional-portfolio/)
+
 [demo](https://drive.google.com/file/d/1jft7Fvaprk9xIw0eAIX_janJ1-UsFBbr/view)
+
+[demo](campjrnlrecording.webm)
+
 ## WireFrame
 
 Below is the template that was used to design the webpage
