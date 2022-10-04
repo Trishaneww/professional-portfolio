@@ -1,5 +1,3 @@
-[Camp JRNL (1).webm](https://user-images.githubusercontent.com/92243834/193717070-a6c34e66-afe4-428f-8297-101105098e63.webm)
-
 # professional-portfolio
 
 
@@ -17,10 +15,6 @@ The codebase has an abundance of features as stated below:
 ![snippet](assets/images/portfolio.webm)
 
 Link to working website: [Github Pages](https://trishaneww.github.io/professional-portfolio/)
-
-[demo](https://drive.google.com/file/d/1jft7Fvaprk9xIw0eAIX_janJ1-UsFBbr/view)
-
-[demo](campjrnlrecording.webm)
 
 ## WireFrame
 
